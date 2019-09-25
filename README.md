@@ -1,7 +1,8 @@
-# phoenix-01
-
+This is a project I created for a client. The goal was to create a fast, reusable process that they could add on to easily in the future. Currently, it only has a module for searching the GitHub API for a list of emails provided to the script.
+***
+# email_multi-site_search  
 ### Structure:  
-`phoenix-gh-join/`  
+`email_multi-site_search/`  
 `|-- README.md`  
 `|-- __init__.py`  
 `|-- constants.py`  
@@ -12,7 +13,7 @@
 `|   |-- output.csv`  
 `|   |-- proxies.txt`  
 
-* `phoenix-gh-join/` - main project folder
+* `email_multi-site_search/` - main project folder
 * `README.md` - this very informational document
 * `__init__.py` - for project structure - helps with local imports
 * `constants.py` - contains location of our input/output file(s)
